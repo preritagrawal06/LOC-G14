@@ -1,3 +1,5 @@
+// Write a C program to check whether a number is even or odd using switch case
+
 #include <stdio.h>
 int main(){
     int a;
